@@ -2,7 +2,8 @@
 
 ## Problem / Goal
 The project aimed to tackle the issue of customer churn at XYZ Analytics by identifying key factors leading to churn and developing a predictive model to forecast future churn. This initiative was crucial for improving customer retention, enhancing satisfaction, and ensuring stable revenue growth.
-Process / Solution
+
+## Process / Solution
 
 ### Data Collection and Preprocessing: 
 Utilizing Python, specifically Pandas and NumPy, for cleaning and preparing the data.
